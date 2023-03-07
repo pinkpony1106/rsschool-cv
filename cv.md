@@ -26,3 +26,9 @@ function arithmetic(a, b, operator){
   }
 }
 ```
+## Experience
+## Education 
+* **University:** Belarusian State University, the Faculty of Biology
+* **Courses:** HTMl-Academy
+## English 
+**B1**
