@@ -5,7 +5,7 @@
 * **Email:** juliaegorova221098@gmail.com
 * **GitHub:** pinkpony1106
 ## About me
-I'm  24 years old. I'm here for gain knowledge in the field of front-end development.
+I have a diploma in microbiology scienсe and I worked for a year in this field. I started learning front end myself, and now I decided to join this course to deepen my knowledge in this area. My goal is to learn as much as possible about front end development and subsequently find a job.
 ## Skills
 * HTML
 * CSS
@@ -29,6 +29,6 @@ function arithmetic(a, b, operator){
 ## Experience
 ## Education 
 * **University:** Belarusian State University, the Faculty of Biology
-* **Courses:** HTMl-Academy
+* **Courses:** HTML-Academy
 ## English 
 **B1**
