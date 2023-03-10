@@ -31,10 +31,10 @@ h6 {
 html,
 body {
   height: 100%;
-  line-height: 1;
+  line-height: 1.25;
   font-size: 16px;
   color: #000;
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 /*Обнуление__________________________________________________*/
 .wrapper {
@@ -51,9 +51,13 @@ body {
 .line {
   margin: 10px;
   border-bottom: #000;
-  background-color: red;
-  height: 4px;
-  width: 40px;
+  background-color: #0d1c10;
+  height: 2px;
+  width: 50px;
+  margin: 0 auto;
+}
+.line_left {
+  background-color: #cfe3d3;
 }
 
 img {
@@ -68,21 +72,24 @@ h1 {
 h2 {
   font-weight: 500;
   font-size: 25px;
-
-  padding: 10px;
+  padding-bottom: 15px;
+  padding-top: 40px;
 }
+
 h3 {
   font-weight: 500;
   font-size: 18px;
-
-  padding: 10px;
+  padding-top: 20px;
+}
+h3:first-of-type {
+  padding-top: 15px;
 }
 p {
   font-weight: 400;
-  font-size: 16px;
-
+  font-size: 15px;
   display: flex;
   justify-content: center;
+  padding: 15px 0px;
 }
 /*ЛЕВЫЙ БЛОК__________________________________________________ЛЕВЫЙ БЛОК*/
 .left_block {
@@ -105,5 +112,17 @@ p {
 }
 
 .about_me p {
-  margin: 0px 50px 50px 50px;
+  padding: 15px 70px 15px 70px;
+}
+ul {
+  padding: 15px 15px;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.code_examp {
+  font-family: Inconsolata, sans-serif;
+  font-weight: 700;
+  text-align: left;
+  margin-bottom: 50px;
 }
